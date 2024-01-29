@@ -1,0 +1,66 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Billie Eilish",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761670000ecd474ab55d1d4b65d7f305d048b"
+      },
+      {
+        "id": 2,
+        "name": "Ariana Grande",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174d254ca4d4fb43ef3051be3d7"
+      },
+      {
+        "id": 3,
+        "name": "Twenty One Pilots",
+        "genre": "Alternative",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174196972172c37d934d9ca8093"
+      },
+      {
+        "id": 4,
+        "name": "Nirvana",
+        "genre": "Grunge",
+        "urlImg": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451"
+      },
+      {
+        "id": 5,
+        "name": "Jão",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000f178c4bed49b3a6321d7a2097ace"
+      },
+      {
+        "id": 6,
+        "name": "Lagum",
+        "genre": "Indie Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000f178afe376bf30a18f82dc0ca5d9"
+      },
+      {
+        "id": 7,
+        "name": "Olivia Rodrigo",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4"
+      },
+      {
+        "id": 8,
+        "name": "Sabrina Carpenter",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000f17800e540b760b56d02cc415c47"
+      },
+      {
+        "id": 9,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 10,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      }
+    
+    ]
+  }
+  
